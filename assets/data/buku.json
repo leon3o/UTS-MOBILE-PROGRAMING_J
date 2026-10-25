@@ -1,0 +1,117 @@
+{
+  "status": "success",
+  "message": "Daftar katalog buku BacaKita",
+  "generated_at": "2026-10-25",
+  "data": [
+    {
+      "id": 1,
+      "judul": "Nusa dalam Kabut",
+      "penulis": "Ayu Larasati",
+      "kategori": "Fiksi",
+      "tahun": 2021,
+      "penerbit": "Binar Cendekia",
+      "rating": 4.5,
+      "warna": "#6C63FF",
+      "deskripsi": "Novel perjalanan seorang pemuda dari pesisir yang menelusuri jejak leluhurnya di tengah kabut pegunungan. Cerita ini mengangkat nilai persahabatan, keberanian, dan kecintaan terhadap tanah air dengan bahasa yang ringan dan mudah dipahami pembaca remaja."
+    },
+    {
+      "id": 2,
+      "judul": "Rahasia Angkasa",
+      "penulis": "Dimas Prakoso",
+      "kategori": "Sains",
+      "tahun": 2019,
+      "penerbit": "Langit Ilmu",
+      "rating": 4.2,
+      "warna": "#00A8A8",
+      "deskripsi": "Pengantar astronomi yang menjelaskan tata surya, lubang hitam, dan misi antariksa modern dengan bahasa sederhana. Dilengkapi ilustrasi ringan sehingga pembaca awam dapat memahami konsep dasar fisika luar angkasa."
+    },
+    {
+      "id": 3,
+      "judul": "Flutter untuk Pemula",
+      "penulis": "Rizky Maulana",
+      "kategori": "Teknologi",
+      "tahun": 2023,
+      "penerbit": "Kode Pintar",
+      "rating": 4.8,
+      "warna": "#2D6CDF",
+      "deskripsi": "Panduan praktis membangun aplikasi mobile lintas platform menggunakan framework Flutter, mulai dari widget dasar, layout, navigasi, hingga pengelolaan state. Setiap bab disertai contoh kode yang dapat langsung dicoba."
+    },
+    {
+      "id": 4,
+      "judul": "Sejarah Nusantara Kuno",
+      "penulis": "Sri Wahyuni",
+      "kategori": "Sejarah",
+      "tahun": 2018,
+      "penerbit": "Jejak Warisan",
+      "rating": 4.6,
+      "warna": "#B07C4F",
+      "deskripsi": "Kajian ringkas peradaban awal Nusantara dari masa kerajaan-kerajaan besar hingga masuknya pengaruh budaya asing. Menampilkan peta, kronologi, dan sumber arkeologi untuk memperkaya pemahaman mahasiswa tentang sejarah daerah."
+    },
+    {
+      "id": 5,
+      "judul": "Luna dan Bulan Perak",
+      "penulis": "Nadia Putri",
+      "kategori": "Fiksi",
+      "tahun": 2022,
+      "penerbit": "Bintang Muda",
+      "rating": 4.3,
+      "warna": "#C64F9F",
+      "deskripsi": "Kisah fantasi anak muda yang menemukan kekuatan ajaib dari bulan perak untuk melindungi desanya. Memadukan petualangan, keluarga, dan pesan lingkungan dengan gaya penulisan yang mengalir dan penuh imajinasi."
+    },
+    {
+      "id": 6,
+      "judul": "Fisika Sehari-hari",
+      "penulis": "Bayu Nugroho",
+      "kategori": "Sains",
+      "tahun": 2020,
+      "penerbit": "Langit Ilmu",
+      "rating": 4.1,
+      "warna": "#00A8A8",
+      "deskripsi": "Menjelaskan fenomena fisika di sekitar kita, mulai dari cara kerja kulkas, jembatan, hingga ponsel pintar, melalui hukum-hukum dasar yang dipermudah. Cocok sebagai bacaan pendukung mata kuliah fisika umum."
+    },
+    {
+      "id": 7,
+      "judul": "Bertumbuh Bersama",
+      "penulis": "Intan Permata",
+      "kategori": "Pengembangan Diri",
+      "tahun": 2024,
+      "penerbit": "Ruang Tumbuh",
+      "rating": 4.7,
+      "warna": "#4CAF7D",
+      "deskripsi": "Buku pengembangan diri yang membahas pembentukan kebiasaan kecil, manajemen waktu, dan cara menjaga kesehatan mental mahasiswa. Dilengkapi lembar refleksi mingguan yang dapat diisi pembaca."
+    },
+    {
+      "id": 8,
+      "judul": "Jaringan Komputer Modern",
+      "penulis": "Andi Saputra",
+      "kategori": "Teknologi",
+      "tahun": 2022,
+      "penerbit": "Kode Pintar",
+      "rating": 4.4,
+      "warna": "#2D6CDF",
+      "deskripsi": "Membahas arsitektur jaringan komputer masa kini, termasuk topologi, protokol TCP/IP, keamanan jaringan, dan pengenalan komputasi awan. Setiap materi dilengkapi studi kasus penerapan di lingkungan nyata."
+    },
+    {
+      "id": 9,
+      "judul": "Peta Peradaban",
+      "penulis": "Hendra Gunawan",
+      "kategori": "Sejarah",
+      "tahun": 2017,
+      "penerbit": "Jejak Warisan",
+      "rating": 4.0,
+      "warna": "#B07C4F",
+      "deskripsi": "Menelusuri perjalanan peradaban manusia melalui peta interaktif cetak, dari Mesir Kuno hingga maritim Nusantara. Menekankan keterhubungan budaya dan perdagangan antar wilayah di berbagai masa."
+    },
+    {
+      "id": 10,
+      "judul": "Kebiasaan Kecil Dampak Besar",
+      "penulis": "Mira Andayani",
+      "kategori": "Pengembangan Diri",
+      "tahun": 2023,
+      "penerbit": "Ruang Tumbuh",
+      "rating": 4.5,
+      "warna": "#4CAF7D",
+      "deskripsi": "Panduan membangun kebiasaan positif berbasis riset psikologi perilaku, dengan pendekatan bertahap dan terukur. Pembaca diajak menyusun rencana pribadi dan memantau perkembangannya selama 30 hari."
+    }
+  ]
+}
